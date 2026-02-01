@@ -46,7 +46,7 @@
 
 // ==================== AP CONFIG ====================
 static const char AP_SSID[] PROGMEM = "HaLow-Config";
-static const char AP_PASS[] PROGMEM = "halow1234";
+static const char AP_PASS[] PROGMEM = "12345678";
 
 // ==================== OBJECTS ====================
 WebServer server(80);
